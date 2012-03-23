@@ -23,6 +23,8 @@ if fromm == 'Jpy' and toconvert == 'Eur':
     converter2(value, e2j)
 if fromm == 'Jpy' and toconvert == 'Usd':
     converter2(value, u2j)
+else:
+    print ('wrong arguments!')
 
 
     #rounded to 4 digits because of the low rate of Jpy
