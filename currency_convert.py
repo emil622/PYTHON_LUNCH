@@ -26,4 +26,4 @@ if fromm == 'Jpy' and toconvert == 'Usd':
 
 
     #rounded to 4 digits because of the low rate of Jpy
-    #1 Jpy is 0.0091 and with 2 digits it would print 0.0
+    # 1 Jpy is 0.0091 Eur and with 2 digits it would print 0.0
