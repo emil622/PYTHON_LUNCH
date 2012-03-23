@@ -13,15 +13,15 @@ def converter2(type,rate):
     print ("%.4f" % (type/rate))
 if fromm == 'Eur' and toconvert == 'Usd':
     converter1(value, e2u)
-if fromm == 'Eur' and toconvert == 'Jpy':
+elif fromm == 'Eur' and toconvert == 'Jpy':
     converter1(value, e2j)
-if fromm == 'Usd' and toconvert == 'Jpy':
+elif fromm == 'Usd' and toconvert == 'Jpy':
     converter1(value, u2j)
-if fromm == 'Usd' and toconvert == 'Eur':
+elif fromm == 'Usd' and toconvert == 'Eur':
     converter2(value, e2u)
-if fromm == 'Jpy' and toconvert == 'Eur':
+elif fromm == 'Jpy' and toconvert == 'Eur':
     converter2(value, e2j)
-if fromm == 'Jpy' and toconvert == 'Usd':
+elif fromm == 'Jpy' and toconvert == 'Usd':
     converter2(value, u2j)
 else:
     print ('wrong arguments!')
