@@ -9,7 +9,6 @@ if scale == 'Celsius':
 elif scale == 'Fahrenheit':
     temp = (5./9)*(value-32)
     print ("%.1f" % temp)
-else:
-    print('wrong arguments!')
+
     # -10 Fahrenheit => -23.3
     # 22 Celsius => 71.6
