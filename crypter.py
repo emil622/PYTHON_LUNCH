@@ -1,5 +1,5 @@
 import sys
-
+#SAP: add a header
 __author__ = 'E.M.'
 #def lungime(chara):
  #   if len(chara) < 7 :

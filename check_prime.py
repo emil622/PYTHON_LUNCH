@@ -3,7 +3,7 @@
 # Purpose:     Demo
 #              Check if a given number is prime.
 #
-# Author:      C.M.
+# Author:      E.M.
 #
 # Created:     23.03.2012
 # Copyright:   (c) 541840@gmail.com 2012

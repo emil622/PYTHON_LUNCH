@@ -1,4 +1,5 @@
 import sys
+#SAP: add a header
 
 __author__ = 'Emil'
 char = sys.argv[1]
