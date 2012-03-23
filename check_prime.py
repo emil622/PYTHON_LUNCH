@@ -16,16 +16,15 @@ import time
 
 start_time = time.time()
 
-
+validator = 1
 num = 99999999 #int(sys.argv[1]) # 8 digits is the max num... how can you use greater numbers?
                # Output
                # 99999999 False
-               # (19.253000020980835, 'seconds')
-               # can u improve it to make it faster?
-validator = 1
-for i in range(2, int(num/2)):  #it checks if the modulus of number with al numbers within the range (2, number/2) is 0
-    if num % i == 0:     #if it is 0 then the number is prime, else isn't
+               # (0.83500003814697266, 'seconds')
+for i in range(2, int((num/2)-1)):  #it checks if the modulus of number with al numbers within the range (2, number/2) is 0
+    if num % i == 0:    #if it is 0 then the number is prime, else isn't
         validator = 0
+        break
 if validator == 1:
     print (repr(num) + ' True')
 else:

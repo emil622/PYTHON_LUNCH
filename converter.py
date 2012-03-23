@@ -1,8 +1,18 @@
 __author__ = 'ME'
 
-
-#SAP: add a header
-
+#-------------------------------------------------------------------------------
+# Name:        converter.py
+# Purpose:     Exercise
+#              converts numbers in and from dec, hec and bin.
+#
+# Author:      E.M.
+#
+# Created:     23.03.2012
+# Copyright:   (c) emilutz09@gmail.com 2012
+# Version      1.0
+# Licence:     GPL
+#-------------------------------------------------------------------------------
+#P\Informatica\GITHUB\PYTHON_LUNCH
 import sys
 
 # un pic am complicat...

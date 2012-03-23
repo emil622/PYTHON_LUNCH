@@ -1,5 +1,17 @@
 import sys
-#SAP: add a header
+#-------------------------------------------------------------------------------
+# Name:        Pascal_triangle_symbolic.py
+# Purpose:     Exercise
+#              Writes Pascal's triangle.
+#
+# Author:      E.M.
+#
+# Created:     23.03.2012
+# Copyright:   (c) emilutz09@gmail.com 2012
+# Version      1.0
+# Licence:     GPL
+#-------------------------------------------------------------------------------
+#P\Informatica\GITHUB\PYTHON_LUNCH
 
 __author__ = 'Emil'
 char = sys.argv[1]

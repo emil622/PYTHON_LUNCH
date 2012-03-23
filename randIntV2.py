@@ -1,5 +1,16 @@
-#SAP: add a header
-
+#-------------------------------------------------------------------------------
+# Name:        randIntV2.py
+# Purpose:     Exercise
+#              generates randomized numbers .
+#
+# Author:      E.M.
+#
+# Created:     23.03.2012
+# Copyright:   (c) emilutz09@gmail.com 2012
+# Version      1.0
+# Licence:     GPL
+#-------------------------------------------------------------------------------
+#P\Informatica\GITHUB\PYTHON_LUNCH
 
 import sys
 import random

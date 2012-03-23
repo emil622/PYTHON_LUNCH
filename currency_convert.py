@@ -1,5 +1,17 @@
 import sys
-#SAP: add a header
+#-------------------------------------------------------------------------------
+# Name:        currency_convert.py
+# Purpose:     Exercise
+#              converts the currencies of Usd, Eur and Jdy.
+#
+# Author:      E.M.
+#
+# Created:     23.03.2012
+# Copyright:   (c) emilutz09@gmail.com 2012
+# Version      1.0
+# Licence:     GPL
+#-------------------------------------------------------------------------------
+#P\Informatica\GITHUB\PYTHON_LUNCH
 
 __author__ = 'E.M.'
 e2u = 1.32
