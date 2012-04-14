@@ -7,7 +7,7 @@
 # Author    E.M.
 # Created   14.04.2012
 # Copyright (c) emilutz09@gmail.com 2012
-# Github    ....
+# Github    https://emil622@github.com/emil622/PYTHON_LUNCH.git
 #-------------------------------------------------
 
 #1111111111111111111111111111111111111111111111111111111111
