@@ -186,11 +186,11 @@ make_ends([7, 4, 6, 2]) → [7, 2]'''
 
 
 def make_ends(nums):
-
-    return [nums[0]] + [nums[len(nums)-1]]
+ return [nums[0]] + [nums[len(nums)-1]]
 
 
 #______________________________________________________________________________
+
 
  '''Given an int array length 2, return True if it contains a 2 or a 3.
 
