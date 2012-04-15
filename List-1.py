@@ -9,8 +9,18 @@
 # Copyright (c) emilutz09@gmail.com 2012
 # Github    https://emil622@github.com/emil622/PYTHON_LUNCH.git
 #-------------------------------------------------
-
-
+'''
+//SAP:
+a small hint... array[1,2,3,4,5]
+array[0] => 1
+array[-1] => 5
+array[-2] => 4  
+this is called in python "slices" or "sliceing" 
+(see more http://techearth.net/python/index.php5?title=Python:Basics:Slices)
+this we did in the very first exercise 
+in the 1st challenge https://github.com/emil622/PYTHON_LUNCH/blob/master/mirror_words.py
+so no need to use the len() function all the time.... :)
+'''
 #_________________________________________________________________________
 
 '''Given an array of ints, return True if 6 appears as either the first or
