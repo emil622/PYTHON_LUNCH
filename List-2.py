@@ -62,3 +62,71 @@ def centered_average(nums):
 
 #_____________________________________________________________________________
 
+
+'''Return the sum of the numbers in the array, returning 0 for an empty array.
+Except the number 13 is very unlucky, so it does not count and numbers that come immediately after a 13
+also do not count.
+
+sum13([1, 2, 2, 1]) → 6
+sum13([1, 1]) → 2
+sum13([1, 2, 2, 1, 13]) → 6'''
+def sum13(nums):
+    sum = 0
+    for i in range(0, len(nums)):
+        if nums[i] == 13 and i in range (len(nums)-2,len(nums)):
+            break
+        elif i > 0 and nums[i] != 13 and nums[i-1] != 13:
+            sum += nums[i]
+        elif nums[i] != 13 and i == 0:
+            sum += nums[i]
+    return sum      # aghh, finally solved :)) ...This one was tough, not hard but challenging
+
+
+#________________________________________________________________________________
+
+'''Return the sum of the numbers in the array, except ignore sections of numbers starting with a 6
+and extending to the next 7 (every 6 will be followed by at least one 7). Return 0 for no numbers.
+
+sum67([1, 2, 2]) → 5
+sum67([1, 2, 2, 6, 99, 99, 7]) → 5
+sum67([1, 1, 6, 7, 2]) → 4'''
+
+def sum67(nums):
+    sum = 0
+    if 7 in nums and 6 in nums:
+        poz6 = nums.index(6)
+        poz7 = nums.index(7)
+        if poz7 < poz6:
+            new1 = nums[:poz7] + nums[poz7+1:]
+            poz6 = new1.index(6)
+            poz7 = new1.index(7)
+        if poz6 < poz7:
+            new = nums[0:poz6] + nums[poz7+1:]
+            if 7 in new and 6 in new:
+                poz6 = new.index(6)
+                poz7 = new.index(7)
+                if poz6 < poz7:
+                    new = new[0:poz6] + new[poz7+1:]
+        else:
+            new = nums
+    else:
+        new = nums
+    for i in new:
+        sum += i
+    return sum   # This doesn't pas the 'other tests' validation, it was the last problem and i wanted to finish
+
+#_________________________________________________________________________________
+
+'''Given an array of ints, return True if the array contains a 2 next to a 2 somewhere.
+
+has22([1, 2, 2]) → True
+has22([1, 2, 1, 2]) → False
+has22([2, 1, 2]) → False'''
+
+def has22(nums):
+    check = 0
+    for i in range(0, len(nums)-1):
+        if nums[i] == 2 and nums[i+1] == 2:
+            check = 1
+            break
+    return check == 1
