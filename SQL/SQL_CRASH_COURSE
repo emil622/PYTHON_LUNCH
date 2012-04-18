@@ -1,0 +1,20 @@
+
+Cover first only the topics from the "SQL Basic" from http://www.w3schools.com/sql/sql_intro.asp
+Write (in this file) to each concept listed below a few keywords or an SQL example or something you can associate with.
+Don't forget the SQL online demo tool, where you can test the SQL queries http://www.w3schools.com/sql/sql_tryit.asp
+For this task, you should not spend more than 5-8 hours. If you understand how it works, go further! But if you don't
+get it, spend some more time until you understand it. Use additional research (google, youtube) if needed.
+When you finish, commit this file with the following message: "SQL crash course... DONE."
+
+SQL Basic
+SQL HOME
+SQL Intro
+SQL Syntax
+SQL Select
+SQL Distinct
+SQL Where
+SQL And & Or
+SQL Order By
+SQL Insert
+SQL Update
+SQL Delete
