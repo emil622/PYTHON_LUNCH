@@ -136,9 +136,10 @@ has22([1, 2, 1, 2]) → False
 has22([2, 1, 2]) → False'''
 
 def has22(nums):
-    check = 0
-    for i in range(0, len(nums)-1):
-        if nums[i] == 2 and nums[i+1] == 2:
-            check = 1
-            break
-    return check == 1
+
+    #for i in range(0, len(nums)-1):
+    for num in nums:
+        if num == 2 and nums[nums.index(num)+1] == 2:
+            return True
+
+    return False

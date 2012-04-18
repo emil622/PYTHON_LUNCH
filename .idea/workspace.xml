@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="141463cd-f864-41c2-be00-9efa10985e36" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CodingBat files/CodingBat screenshot.PNG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XOR.py" afterPath="$PROJECT_DIR$/XOR.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calculator.py" afterPath="$PROJECT_DIR$/calculator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/check_prime.py" afterPath="$PROJECT_DIR$/check_prime.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/converter.py" afterPath="$PROJECT_DIR$/converter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/currency_convert.py" afterPath="$PROJECT_DIR$/currency_convert.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mirror_words.py" afterPath="$PROJECT_DIR$/mirror_words.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pascal_triangle_symbolic.py" afterPath="$PROJECT_DIR$/pascal_triangle_symbolic.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/randInt.py" afterPath="$PROJECT_DIR$/randInt.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/randIntV2.py" afterPath="$PROJECT_DIR$/randIntV2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp_convert.py" afterPath="$PROJECT_DIR$/temp_convert.py" />
+      <change type="MOVED" beforePath="P:\Informatica\GITHUB\PYTHON_LUNCH\List-1.py" afterPath="$PROJECT_DIR$/CodingBat files/List-1.py" />
+      <change type="MOVED" beforePath="P:\Informatica\GITHUB\PYTHON_LUNCH\List-2.py" afterPath="$PROJECT_DIR$/CodingBat files/List-2.py" />
+      <change type="MOVED" beforePath="P:\Informatica\GITHUB\PYTHON_LUNCH\Logic-1.py" afterPath="$PROJECT_DIR$/CodingBat files/Logic-1.py" />
+      <change type="MOVED" beforePath="P:\Informatica\GITHUB\PYTHON_LUNCH\Logic-2.py" afterPath="$PROJECT_DIR$/CodingBat files/Logic-2.py" />
+      <change type="MOVED" beforePath="P:\Informatica\GITHUB\PYTHON_LUNCH\String-1.py" afterPath="$PROJECT_DIR$/CodingBat files/String-1.py" />
+      <change type="MOVED" beforePath="P:\Informatica\GITHUB\PYTHON_LUNCH\String-2.py" afterPath="$PROJECT_DIR$/CodingBat files/String-2.py" />
+      <change type="MOVED" beforePath="P:\Informatica\GITHUB\PYTHON_LUNCH\warmup-1.py" afterPath="$PROJECT_DIR$/CodingBat files/warmup-1.py" />
+      <change type="MOVED" beforePath="P:\Informatica\GITHUB\PYTHON_LUNCH\warmup-2.py" afterPath="$PROJECT_DIR$/CodingBat files/warmup-2.py" />
     </list>
     <ignored path="PYTHON_LUNCH.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,93 +33,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mirror_words.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mirror_words.py">
+      <file leaf-file-name="List-2.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingBat files/List-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+            <state line="118" column="35" selection-start="3699" selection-end="3699" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pascal_triangle_symbolic.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pascal_triangle_symbolic.py">
+      <file leaf-file-name="String-2.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingBat files/String-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="39" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+            <state line="14" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="randInt.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/randInt.py">
+      <file leaf-file-name="String-1.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingBat files/String-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="43" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="358" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="randIntV2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/randIntV2.py">
+      <file leaf-file-name="Logic-2.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingBat files/Logic-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="44" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="357" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp_convert.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp_convert.py">
+      <file leaf-file-name="Logic-1.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingBat files/Logic-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="42" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+            <state line="7" column="14" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XOR.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XOR.py">
+      <file leaf-file-name="warmup-2.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingBat files/warmup-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="14" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+            <state line="2" column="6" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculator.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/calculator.py">
+      <file leaf-file-name="warmup-1.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingBat files/warmup-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="10" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="check_prime.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/check_prime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="27" selection-start="724" selection-end="724" vertical-scroll-proportion="0.7281192">
-              <folding>
-                <element signature="e#432#442#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="currency_convert.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/currency_convert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generated_numbers.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generated_numbers.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="25" column="9" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -141,19 +111,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/README.txt" />
-        <option value="$PROJECT_DIR$/crypter.py" />
-        <option value="$PROJECT_DIR$/curency_converter.py" />
-        <option value="$PROJECT_DIR$/calculator.py" />
-        <option value="$PROJECT_DIR$/currency_convert.py" />
-        <option value="$PROJECT_DIR$/converter.py" />
-        <option value="$PROJECT_DIR$/mirror_words.py" />
         <option value="$PROJECT_DIR$/pascal_triangle_symbolic.py" />
         <option value="$PROJECT_DIR$/randInt.py" />
         <option value="$PROJECT_DIR$/randIntV2.py" />
         <option value="$PROJECT_DIR$/temp_convert.py" />
-        <option value="$PROJECT_DIR$/XOR.py" />
         <option value="$PROJECT_DIR$/check_prime.py" />
+        <option value="$PROJECT_DIR$/XOR.py" />
+        <option value="$PROJECT_DIR$/warmup-1.py" />
+        <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/warmup-2.py" />
+        <option value="$PROJECT_DIR$/String-1.py" />
+        <option value="$PROJECT_DIR$/List-1.py" />
+        <option value="$PROJECT_DIR$/Logic-1.py" />
+        <option value="$PROJECT_DIR$/Logic-2.py" />
+        <option value="$PROJECT_DIR$/String-2.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/List-2.py" />
       </list>
     </option>
   </component>
@@ -170,7 +143,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -215,7 +188,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.lastSelected" value="editor.preferences.tabs" />
     <property name="recentsLimit" value="5" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -228,7 +201,7 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.check_prime">
+  <component name="RunManager" selected="Python.test">
     <configuration default="false" name="crypter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,21 +220,23 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="check_prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:/Python26/python.exe" />
+      <option name="SDK_HOME" value="C:/Python32/python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <module name="PYTHON_LUNCH" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check_prime.py" />
-      <option name="PARAMETERS" value="121" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
       <option name="MULTIPROCESS" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -320,7 +295,7 @@
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.crypter" />
-      <item index="1" class="java.lang.String" itemvalue="Python.check_prime" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -374,21 +349,21 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18014705" sideWeight="0.49654377" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2867647" sideWeight="0.6705069" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32718894" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18265896" sideWeight="0.32565284" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10845588" sideWeight="0.671659" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39906102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32718894" sideWeight="0.9983375" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872504" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32629108" sideWeight="0.9983375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328341" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -428,7 +403,7 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="details added - commit by E.M." />
+    <option name="LAST_COMMIT_MESSAGE" value="python List-2 - committed by E.M." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -453,99 +428,95 @@
     <MESSAGE value="check_prime.py file committed by E.M." />
     <MESSAGE value="Temp_convert.py file committed by E.M." />
     <MESSAGE value="details added - commit by E.M." />
+    <MESSAGE value="python warmup-1 - commit by E.M." />
+    <MESSAGE value="python warmup-2 - committed by E.M." />
+    <MESSAGE value="python String-1 - committed by E.M." />
+    <MESSAGE value="python List-1 - committed by E.M." />
+    <MESSAGE value="python Logic-1 - committed by E.M." />
+    <MESSAGE value="python Logic-2 - committed by E.M." />
+    <MESSAGE value="python String-2 - committed by E.M." />
+    <MESSAGE value="python List-2 - committed by E.M." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.txt">
+    <entry file="file://$PROJECT_DIR$/check_prime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="52" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crypter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="20" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/converter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="60" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generated_numbers.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mirror_words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pascal_triangle_symbolic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="39" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randInt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="43" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randIntV2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="44" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp_convert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="42" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XOR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="23" column="23" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/currency_convert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated_numbers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="5" selection-start="1075" selection-end="1075" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XOR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="12" selection-start="716" selection-end="716" vertical-scroll-proportion="0.55771565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp_convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="42" selection-start="178" selection-end="178" vertical-scroll-proportion="0.06049822" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randInt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="43" selection-start="174" selection-end="174" vertical-scroll-proportion="0.06049822" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingBat files/List-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="69" selection-start="1816" selection-end="1816" vertical-scroll-proportion="1.2948403" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingBat files/String-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingBat files/String-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="358" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingBat files/Logic-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="357" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingBat files/Logic-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingBat files/warmup-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingBat files/warmup-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="9" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/check_prime.py">
+    <entry file="file://$PROJECT_DIR$/CodingBat files/CodingBat screenshot.PNG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingBat files/List-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="27" selection-start="724" selection-end="724" vertical-scroll-proportion="0.7281192">
-          <folding>
-            <element signature="e#432#442#0" expanded="true" />
-          </folding>
+        <state line="118" column="35" selection-start="3699" selection-end="3699" vertical-scroll-proportion="0.33333334">
+          <folding />
         </state>
       </provider>
     </entry>
